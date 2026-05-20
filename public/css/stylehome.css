@@ -669,4 +669,18 @@ a {
         margin-left: 0;
         margin-right: 14px;
     }
+
+    .form-message {
+        margin-top: 16px;
+        font-weight: 700;
+        text-align: center;
+    }
+    
+    .form-message.success {
+        color: #198754;
+    }
+    
+    .form-message.error {
+        color: #b80f1f;
+    }
 }
